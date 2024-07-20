@@ -1,5 +1,5 @@
 # GitDemo Repo
-This is a demo app for the Git course by Tim Corey
+This is a sample repo for the Git course by Tim Corey
 
 ## How to Work With Git
 1. git checkout main
